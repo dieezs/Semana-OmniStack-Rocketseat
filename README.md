@@ -4,7 +4,7 @@ Semana OmniStack 11 onde o intuito é desenvolver uma aplicação completa, fron
 
 Linguagens utilizadas durante o bootcamp de 1 semana: NodeJS, React, React Native.
 
-## Conceitos/Ferramentas utilizados
+## Ferramentas utilizados
 
 - MVC
 - Nodemon
@@ -12,6 +12,7 @@ Linguagens utilizadas durante o bootcamp de 1 semana: NodeJS, React, React Nativ
 - Pacote Crypto 
 - SQL: SQLite3
 - Express
+- Insomnia
 
-<img src="nodejs.png" width="200" >
-<img src="react.png" width="200" >
+<img src="nodejs.png" width="300" align="left" >
+<img src="react.png" width="300" align="right">
