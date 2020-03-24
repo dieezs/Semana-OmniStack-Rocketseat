@@ -14,6 +14,6 @@ Linguagens utilizadas durante o bootcamp de 1 semana: NodeJS, React, React Nativ
 - Express
 - Insomnia
 
-<img src="nodejs.png" width="300" align="left" >
-<img src="react.png" width="300" align="center">
-<img src="react-native.png" width="300" align="right">
+<img src="nodejs.png" width="200" align="left" >
+<img src="react.png" width="200" align="center">
+<img src="react-native.png" width="200" align="right">
