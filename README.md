@@ -8,11 +8,13 @@ Linguagens utilizadas durante o bootcamp de 1 semana: NodeJS, React, React Nativ
 
 - MVC
 - Nodemon
-- Routes para backend
+- Routes para backend e frontend
 - Pacote Crypto 
 - SQL: SQLite3
 - Express
 - Insomnia
+- axios
+- react icons
 
 <img src="nodejs.png" width="300" align="left" >
 <img src="react.png" width="300" align="right">
