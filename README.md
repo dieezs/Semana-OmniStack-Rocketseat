@@ -15,6 +15,9 @@ Linguagens utilizadas durante o bootcamp de 1 semana: NodeJS, React, React Nativ
 - Insomnia
 - axios
 - react icons
+- testes com o jest
+- validação backend com o pacote celebrate
+- tester unitarios e de integração
 
 <img src="nodejs.png" width="300" align="left" >
 <img src="react.png" width="300" align="right">
